@@ -1,0 +1,43 @@
+{
+  "name": "web-sharing-sosmed",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 1234",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@firebase/storage": "^0.11.2",
+    "@use-gesture/react": "^10.2.27",
+    "antd": "^5.5.0",
+    "antd-img-crop": "^4.12.2",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "dayjs": "^1.11.7",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "firebase": "^9.23.0",
+    "lodash": "^4.17.21",
+    "next": "13.4.2",
+    "next-seo": "^6.0.0",
+    "nprogress": "^0.2.0",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dnd-touch-backend": "^16.0.1",
+    "react-dom": "18.2.0",
+    "react-drag-listview": "^2.0.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-responsive": "^9.0.2",
+    "react-spring": "^9.7.1",
+    "tailwindcss": "3.3.2"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.3",
+    "typescript": "5.5.4"
+  }
+}
